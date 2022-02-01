@@ -160,7 +160,7 @@
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "https://raw.githubusercontent.com/eclipse/ditto/master/deployment/azure/arm/templates/cosmosDBDeploy.json"
+                    "uri": "https://gplagenza.github.io/ditto/blob/main/deployment/azure/arm/templates/cosmosDBDeploy.json"
                 },
                 "parameters": {
                     "accountName": {
@@ -188,7 +188,7 @@
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "https://raw.githubusercontent.com/eclipse/ditto/master/deployment/azure/arm/templates/vnetDeploy.json"
+                    "uri": "https://gplagenza.github.io/ditto/blob/main/deployment/azure/arm/templates/vnetDeploy.json"
                 },
                 "parameters": {
                     "vnetName": {
